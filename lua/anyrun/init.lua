@@ -1,7 +1,4 @@
-print("hello anyrun")
-
 local M = {}
-
 
 local Cmds = {}
 
